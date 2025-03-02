@@ -1,0 +1,12 @@
+﻿.vs/
+
+Properties/
+obj/
+bin/
+
+*.csproj
+*.user
+*.sln
+
+appsettings.json
+appsettings.Development.json
